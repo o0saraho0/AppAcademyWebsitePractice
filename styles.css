@@ -1,0 +1,43 @@
+nav {
+    background-color: #fff5d7;
+}
+
+.nav-lists {
+    font-size: large;
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+    box-shadow: 12px 12px 2px 1px peachpuff;  
+}
+
+img {
+    height: 200px;
+}
+
+.diamond-heads-table {
+    border: 1px solid #ddd;
+}
+
+th, td {
+    border: 1px solid #ddd;;
+    padding: 10px;
+}
+
+.boreal-form {
+    display: flex;
+    text-align: center;
+    margin: 0px 150px;
+}
+
+.input-wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-bottom: 5px;
+    text-align: center;
+}
+
+.disney-list {
+    display: inline-block;
+}
